@@ -12,6 +12,14 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
+## Features
+
+- [x] Feature 1
+- [x] Feature 2
+- [x] Feature 3
+- [x] Feature 4
+- [x] Feature 5
+
 ## Requirements
 
 - iOS 8.0+
