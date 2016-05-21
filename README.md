@@ -14,34 +14,20 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-Add this project on your `Package.swift`
+#### CocoaPods
 
-```swift
-import PackageDescription
+#### Carthage
 
-let package = Package(
-    dependencies: [
-        .Package(url: "https://github.com/user/project.git", majorVersion: 0, minor: 0)
-    ]
-)
-```
+#### Manually
+
 
 ## Usage example
 
-
 ```swift
-import Project
-let proj = Class(param: String?)
-proj.run()
-```
-
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
+import EZSwiftExtensions
+ez.detectScreenShot { () -> () in
+    print("User took a screen shot")
+}
 ```
 
 ## Release History
