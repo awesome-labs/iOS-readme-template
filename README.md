@@ -76,6 +76,10 @@ ez.detectScreenShot { () -> () in
 * 0.0.1
     * Work in progress
 
+## Contribute
+
+We would love for you to contribute to **YourLibraryName**, check the ``LICENSE`` file for more info.
+
 ## Meta
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
