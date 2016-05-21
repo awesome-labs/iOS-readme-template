@@ -12,6 +12,11 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
+## Requirements
+
+- iOS 8.0+
+- Xcode 7.3
+
 ## Installation
 
 #### CocoaPods
