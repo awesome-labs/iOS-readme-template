@@ -1,6 +1,6 @@
 # Product Name
 > Short blurb about what your product does.
-
+//Shago7932/Master report con code of conduct
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
