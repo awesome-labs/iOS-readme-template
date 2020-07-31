@@ -19,8 +19,8 @@
 </p>
 
 <p align="row">
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="425" >
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="425" >
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
 </p>
 
 ## Features
