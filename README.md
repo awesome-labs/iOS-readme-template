@@ -14,17 +14,14 @@
     <img src="logo.jpeg" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    One to two paragraph statement about your product and what it does.
   </p>
 </p>
 
-
-
-One to two paragraph statement about your product and what it does.
-
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" >
-<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" >
-
+<p align="row">
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="425" >
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="425" >
+</p>
 
 ## Features
 
