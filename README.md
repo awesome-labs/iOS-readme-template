@@ -1,5 +1,3 @@
-# Product Name
-> Short blurb about what your product does.
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
@@ -9,9 +7,21 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-One to two paragraph statement about your product and what it does.
+# Product Name
+<br />
+<p align="center">
+  <a href="https://github.com/alexanderritik/Best-README-Template">
+    <img src="logo.jpeg" alt="Logo" width="80" height="80">
+  </a>
+  <p align="center">
+    One to two paragraph statement about your product and what it does.
+  </p>
+</p>
 
-![](header.png)
+<p align="row">
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+<img src= "https://media.giphy.com/media/HYOlBKJBqgAfe/giphy.gif" width="400" >
+</p>
 
 ## Features
 
